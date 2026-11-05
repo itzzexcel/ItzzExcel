@@ -3,7 +3,7 @@ Welcome to my GitHub corner. I specialize in front-end and UI/UX design. Here's 
 <hr>
 <h3>About me</h3>
 
-- I mostly use [.NET](https://dot.net), with C# being my main programming language.
+- I mostly use [.NET](https://dot.net), with C# and C++ PROUDLY being my mains programming languages.
 - You can find me on Discord as [itzzexcel](https://discord.com/users/686765279363334205).
 - Founder of [LEx Softworks](https://github.com/LExteamz).
 <hr>
